@@ -8,7 +8,16 @@ Detects fraudulent and suspicious activities in digital transactions within the 
 - Identification of suspicious accounts and transactions
 - Generate visual reports for monitoring
 
-## Technologies Used:
-- Python (pandas, numpy, matplotlib)
+## Technologies & Tools
+
 - SQL
-- Power BI / Excel
+- Python (Pandas, NumPy)
+- Power BI (Data Modeling, DAX, Visualization)
+- Microsoft Excel (Advanced Functions, Pivot Tables)
+
+## Analytical Skills
+
+- Financial Data Analysis
+- Root Cause Analysis
+- KPI Monitoring
+- Data Cleaning & Data Validation
